@@ -1,3 +1,9 @@
+# 生成gitbook 命令
+ 
+`npm install gitbook-cli -g  
+brew cask install calibre  
+gitbook mobi ./ ./kindlebook.mobi`
+
 郎咸平说过：比特币白给我都不要
 
 巴菲特：比特币是泡沫，不是一种能够生产价值的资产
